@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/rohodono-utaawase",
  "yomi": "",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（十番・五題）",
+  "era": "治暦4年（1068）12月22日",
+  "author": "主催 禖子内親王",
+  "desc": "庚申の夜、禖子内親王の呂保殿で女房たちが左右に分かれて詠んだ歌合。題は月光似氷・雪埋松・夜霰寤夢・炭竈烟高・仏名の五つ。日記は出羽弁が書いたと注記がある。"
+ },
  "editions": [
   {
    "pid": "1879502",
